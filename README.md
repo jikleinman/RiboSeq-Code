@@ -12,6 +12,8 @@ Code used in TZD profiling (doi: 10.64898/2026.02.16.706219); data availability:
    
      inputs: demultiplexed fastq.gz files, adapter sequences (.txt), reference genome and filtering .fasta/.fa files
 
+   
+
 3. Data Analysis files are all run as jupyter notebooks
    
    dependencies: RiboSeq_Analysis_fxns.py, RiboSeq_Analysis_plots.py
