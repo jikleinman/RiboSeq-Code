@@ -12,7 +12,7 @@ Code used in TZD profiling (doi: 10.64898/2026.02.16.706219); data availability:
 
 
 ## 2. Preprocessing is run via command line 
-### RiboSeq_preprocessing.ipynb --> RiboSeq_preprocessing.py
+RiboSeq_preprocessing.ipynb --> RiboSeq_preprocessing.py
    
      Performs the trimming and alignment features before in depth data analysis
    
